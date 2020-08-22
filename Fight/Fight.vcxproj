@@ -74,8 +74,8 @@
     <LibraryPath>C:\Users\noahl\source\repos\Fight\deps\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\noahl\source\repos\Fight\deps\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\noahl\source\repos\Fight\deps\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>A:\Desktop\Folders\Code\C++\GameEngine\deps\include;$(IncludePath)</IncludePath>
+    <LibraryPath>A:\Desktop\Folders\Code\C++\GameEngine\deps\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
